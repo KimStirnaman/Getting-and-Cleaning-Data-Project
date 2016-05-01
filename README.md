@@ -12,3 +12,5 @@ run_analysis.R File completes the assignment requirements to:
   Create tidy data set with the average of each variable for each activity and each subject.
 
 Make sure downloaded data and run_analysis.R are in the same working directory beforing sourcing code
+
+CodeBook.md explains data measurements
